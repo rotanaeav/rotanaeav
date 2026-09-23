@@ -13,7 +13,7 @@ I am a software developer focused on building backend and web applications. I ma
 - C++, SQL
 - Git, GitHub, Linux
 - MVC, REST APIs, CRUD, Responsive Design
-- Redis, SSE, Cloud-flare, Docker, GCP, Vagrant
+- Redis, SSE, Cloud-flare, Docker, GCP, Vagrant, Linux Basic
 
 ## 🌟 Featured Projects
 
